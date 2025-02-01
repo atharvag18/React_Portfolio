@@ -1,0 +1,13 @@
+[{
+  "id": 1,
+  "role": "Full-Stack Developer Intern",
+  "organisation": "Elite Softwares",
+  "startDate": "Jun-2023",
+  "endDate": "Dec-2023",
+  "location": " Pune, Maharastra",
+  "experiences": [
+    "Developed Web Applications: Utilized HTML,    CSS,  Bootstrap, and Javascript with React Js to build dynamic websites."
+    
+  ],
+  "imageSrc": "company/elite.png"
+}]

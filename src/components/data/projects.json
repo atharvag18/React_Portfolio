@@ -1,0 +1,35 @@
+[
+  {
+    "key": 1,
+    "title": "Myntra – Clone Webpage Using React Js  ",
+    "imageSrc": "project/myntra.png",
+    "description": "Developed a fully functionally e-commerce webpage inspired by Myntra using React.js. Implemented dynamic UI components, product listing, filtering, and responsive design to enhance user experience. ",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 2,
+    "title": "Car Rental System Using Java And OOP",
+    "imageSrc": "project/car.png",
+    "description":  "The Car Rental System is a software application developed using Java and Object-Oriented Programming (OOP) concepts , Tools & technologies used: Java, OOP " 
+    ,
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 3,
+    "title": "Crypto Alert System Using Bolt IOT",
+    "imageSrc": "project/crypto.png",
+    "description": "Crypto Alert System ensures that users are informed about price changes, market trends, and potential opportunities or risks , Tools & technologies used: C++,Twilo, Mailgun, Blynk IOT Server ",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "key": 4,
+    "title": "Node JS Airbnb App",
+    "imageSrc": "project/airbnb.png",
+    "description": "An Airbnb app built with Node.js is a web application that lets users book or list accommodations. Node.js handles the backend, managing user accounts, property listings, booking details, and real-time updates efficiently, ensuring a fast and scalable experience.",
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
